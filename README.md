@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 <br><hr>
 [🔼 Back to top](#Result)
 
-![Visitor count](https://script.google.com/macros/s/AKfycbw_strZfsT0TULWR3pQxcLHd4zXVFIeL1JLqYhikVWCO6tOQ39WihVNKH0NNc2S0-tM6A/exec)
+![Visitors](https://script.google.com/macros/s/AKfycbw_strZfsT0TULWR3pQxcLHd4zXVFIeL1JLqYhikVWCO6tOQ39WihVNKH0NNc2S0-tM6A/exec)
