@@ -8,6 +8,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGol&show_icons=true&theme=chartreuse-dark)
 
+![Visitor count](https://visitor-badge.glitch.me/badge?page_id=RobertoGol)
+
+
+
+
+
 ##  For Students OSTU:  ##
 | [![Course I]([https://www.example.com](https://github.com/RobertoGol/1Course-))]  | [![Course II]([https://www.example.com](https://github.com/RobertoGol/2Course-))] 
 | [![Course III]([https://www.example.com](https://github.com/RobertoGol/3Course-))] | 
