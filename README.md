@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <br><hr>
 [🔼 Back to top](#Portfolio)
--->
+
