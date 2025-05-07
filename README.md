@@ -1,5 +1,4 @@
-<!--<h3 align="center">Portfolio</h3>-->
-<h1 align="center">Hi there 👋</h1>
+## Hi there 👋 ##
 
 [![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/Hyde/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/hyde/stargazers)
