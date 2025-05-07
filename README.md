@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 <br><hr>
 [🔼 Back to top](#Result)
 
-![Visitors](https://script.google.com/macros/s/AKfycbw_strZfsT0TULWR3pQxcLHd4zXVFIeL1JLqYhikVWCO6tOQ39WihVNKH0NNc2S0-tM6A/exec)
+![Счетчик посетителей](https://img.shields.io/badge/dynamic/json?url=https://script.google.com/macros/s/AKfycbxJ0BGLX5TIYd5XRgrZRaxhMOC8XHH13We_cJlb8AhlvC0Yh4EURRFwZRoZyjfwuxtdsA/exec&query=message&label=Просмотры&color=blue)
