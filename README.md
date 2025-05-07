@@ -12,7 +12,7 @@
 | [![Course III]([https://www.example.com](https://github.com/RobertoGol/3Course-))]  |
 | [![Course IV]([https://www.example.com](https://github.com/RobertoGol/4Course-))] | [![Course V]([https://www.example.com](https://github.com/RobertoGol/5Course-))]  |
 ## ** For Another ** ##
-
+|[![Discord DedSec Themes]([https://www.example.com]([https://github.com/RobertoGol/1Course-](https://github.com/RobertoGol/Dedsec_Discord_Theme)))]|
 <!--
 **RobertoGol/RobertoGol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
