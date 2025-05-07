@@ -1,5 +1,5 @@
 <!--<h3 align="center">Portfolio</h3>-->
-<h1 align="center"> Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 [![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/Hyde/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/hyde/stargazers)
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 -->
 
 <br><hr>
-[🔼 Back to top](#Portfolio)
+[🔼 Back to top](#Hi there 👋)
 
