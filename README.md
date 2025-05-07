@@ -7,11 +7,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGol&show_icons=true&theme=chartreuse-dark)
 
-##**For Students OSTU:**##
+## ** For Students OSTU: ** ##
 | [![Course I]([https://www.example.com](https://github.com/RobertoGol/1Course-))]  | [![Course II]([https://www.example.com](https://github.com/RobertoGol/2Course-))] |
 | ***[YouHere]***  |
 | [![Course IV]([https://www.example.com](https://github.com/RobertoGol/4Course-))] | [![Course V]([https://www.example.com](https://github.com/RobertoGol/5Course-))]  |
-##**For Another**##
+## ** For Another ** ##
 
 <!--
 **RobertoGol/RobertoGol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
