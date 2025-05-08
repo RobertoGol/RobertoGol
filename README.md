@@ -15,7 +15,6 @@
  ![](https://komarev.com/ghpvc/?username=your-github-RobertoGol&abbreviated=true)
 
 
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=RobertoGol&theme=darkhub&column=3&no-frame=true&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
 
 ##  For Students OSTU:  ##
@@ -39,6 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=RobertoGol&theme=darkhub&column=3&no-frame=true&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
 <br><hr>
 [🔼 Back to top](#Result)
