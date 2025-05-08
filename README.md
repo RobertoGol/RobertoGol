@@ -16,7 +16,7 @@
 
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=RobertoGol&theme=darkhub&column=3&no-frame=true&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
-<br>
+
 
 ##  For Students OSTU:  ##
 | [![Course I]([https://www.example.com](https://github.com/RobertoGol/1Course-))]  | [![Course II]([https://www.example.com](https://github.com/RobertoGol/2Course-)) ] 
