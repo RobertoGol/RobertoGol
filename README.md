@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br><hr>
 [🔼 Back to top](#Result)
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Badge](https://visitor-counter-badge.vercel.app/api/asheeeshh/visitor-counter-badge?label=Hits&color=fc7695&labelColor=95abdb)
                 
 
 
