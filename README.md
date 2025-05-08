@@ -2,8 +2,7 @@
 <br>
 ### Result ###
 <br><br>
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=RobertoGol&theme=darkhub&column=3&no-frame=true&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
-<br><br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGol&show_icons=true&theme=chartreuse-dark)
 
