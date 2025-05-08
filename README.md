@@ -2,9 +2,7 @@
 <br>
 ### Result ###
 
-<br>
-![](https://komarev.com/ghpvc/?username=your-github-RobertoGol&abbreviated=true)
-<br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGol&show_icons=true&theme=chartreuse-dark)
 
@@ -12,7 +10,9 @@
 [![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/Hyde/watchers)
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/hyde/stargazers)
 
-
+<br>
+![](https://komarev.com/ghpvc/?username=your-github-RobertoGol&abbreviated=true)
+<br>
 
 <br><br>
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=RobertoGol&theme=darkhub&column=3&no-frame=true&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
