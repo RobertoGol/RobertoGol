@@ -11,7 +11,7 @@
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/hyde/stargazers)
 
 <br>
-[![](https://komarev.com/ghpvc/?username=your-github-RobertoGol&abbreviated=true)
+[![](https://komarev.com/ghpvc/?username=your-github-RobertoGol&abbreviated=true)]
 <br>
 
 <br><br>
