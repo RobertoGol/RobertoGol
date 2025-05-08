@@ -1,7 +1,7 @@
 ## Hi there 👋 ##
-
+<br>
 ### Result ###
-
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoGol&show_icons=true&theme=chartreuse-dark)
 
 [Registered_on_Github_Users]<br>
@@ -11,7 +11,7 @@
 
 ![Visitor count](https://visitor-badge.glitch.me/badge?page_id=RobertoGol)
 
-
+<br><br><br>
 
 
 ##  For Students OSTU:  ##
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 <br><hr>
 [🔼 Back to top](#Result)
+<br>
 
 
 
 
-<br><br><br><br><br><br>
