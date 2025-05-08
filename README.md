@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br><hr>
 [🔼 Back to top](#Result)
 <br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RobertoGol.visitor-badge)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                
 
 
