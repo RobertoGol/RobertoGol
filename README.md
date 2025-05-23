@@ -24,8 +24,8 @@
 | [![Github_For_Starter[Student]](https://github.com/RobertoGol/Github_For_Starter-Student.git)]  |
 ##  For Another  ##
 | [![Discord DedSec Themes](https://github.com/RobertoGol/Dedsec_Discord_Theme)]  |
-
-
+## Info ##
+|If someone need help send me help request: | [![OpenVK](https://ovk.to/id25282)] ||
  <!--
 **RobertoGol/RobertoGol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
