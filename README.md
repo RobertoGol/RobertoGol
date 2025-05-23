@@ -33,14 +33,14 @@ Here is a simple flow chart:
 Если вам нужна помощь, пожалуйста, следуйте этим шагам:
 
 
-
+```mermaid
 graph TD;
     Need_Help["Нужна помощь"] --> Send_request["Отправить запрос"];
     Send_request --> OpenVK["ВКонтакте"];
     Send_request --> Others["Другие соцсети или Нет"];
     Others --> NoHelp["Я не могу помочь"];
     OpenVK --> Help["Я могу помочь"];
-
+```
  
  <!--
 **RobertoGol/RobertoGol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
