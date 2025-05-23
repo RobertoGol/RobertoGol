@@ -21,7 +21,7 @@
 | [![Course I](https://github.com/RobertoGol/1Course-))]  | [![Course II](https://github.com/RobertoGol/2Course-))]  |
 | [![Course III](https://github.com/RobertoGol/3Course-))]  |
 | [![Course IV](https://github.com/RobertoGol/4Course-))] || [![Course V](https://github.com/RobertoGol/5Course-))]  |
-| [![Github_For_Starter[Student]](https://github.com/RobertoGol/Github_For_Starter-Student.git))]  |
+| [![Github_For_Starter[Student]](https://github.com/RobertoGol/Github_For_Starter-Student.git)]  |
 ##  For Another  ##
 | [![Discord DedSec Themes](https://github.com/RobertoGol/Dedsec_Discord_Theme))]  |
 <!--
