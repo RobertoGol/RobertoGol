@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 [🔼 Back to top](#Result)
 <br>
 <br>
-If someone need help send me help request: | [![OpenVK](https://ovk.to/id25282)] |
+If someone need help send me help request:|[![OpenVK](https://ovk.to/id25282)]|
