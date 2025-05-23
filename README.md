@@ -31,11 +31,11 @@
 <div style="display:flex; align-items:center;">
   <img src="https://github.com/RobertoGol/Lessons/blob/main/Cap.PNG" alt="Описание" style="width:650px; margin-right:30px;">
 </div>
+
 <br>
 <br>
-If someone need help send me help request:
 <br>
-| [![OpenVK] ( https://ovk.to/id25282 )]  |
+If someone need help send me help request: | [![OpenVK](https://ovk.to/id25282)] |
 
 
 
