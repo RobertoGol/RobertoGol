@@ -35,13 +35,13 @@ Here is a simple flow chart:
 
 ```mermaid
 graph TD;
-    Need_Help["Нужна помощь"] --> Send_request["Отправить запрос"];
-    Send_request --> OpenVK["ВКонтакте"];
-    Send_request --> Others["Другие соцсети или Нет"];
-    Others --> NoHelp["Я не могу помочь"];
-    OpenVK --> Help["Я могу помочь"];
+    Need_Help --> Send_me_request;
+    Send_me_request --> OpenVK;
+    Send_me_request --> None_or_another_social_networks;
+    None_or_another_social_networks --> I_cant_give_you_help_to_fix_your_problem;
+    OpenVK --> I_can_help_you;
 ```
- 
+
  <!--
 **RobertoGol/RobertoGol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
