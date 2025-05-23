@@ -33,7 +33,7 @@
 </div>
 <br>
 <br>
-If someone need help send me help request: [OpenVK] ( https://ovk.to/id25282 )
+If someone need help send me help request:| [OpenVK] ( https://ovk.to/id25282 )|
  
 
 
