@@ -26,6 +26,25 @@
 | [![Discord DedSec Themes](https://github.com/RobertoGol/Dedsec_Discord_Theme)]  |
 ## Info ##
  If someone need help send me help request: | [![OpenVK](https://ovk.to/id25282)] | 
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    Need Help-->Send me request;
+    Send me request-->OpenVK;
+    Send me request-->None or another social networks;
+    None or another social networks-->I can't give you  <br> help to fix your problem;
+    OpenVK-->I can help you;
+```
+
+
+
+
+
+
+
+
+ 
  <!--
 **RobertoGol/RobertoGol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
