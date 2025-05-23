@@ -25,10 +25,11 @@
 ##  For Another  ##
 | [![Discord DedSec Themes](https://github.com/RobertoGol/Dedsec_Discord_Theme)]  |
 
-<br>
-<br>
+<p align="right">
 If someone need help send me help request: | [![OpenVK](https://ovk.to/id25282)] |
-<!--
+</p>
+
+ <!--
 **RobertoGol/RobertoGol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
