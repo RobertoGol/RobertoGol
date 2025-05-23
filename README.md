@@ -37,11 +37,9 @@
 <br>
 If someone need help send me help request : 
 
-<p align="center">
- 
 | [![OpenVK](https://ovk.to/id25282)] |
 
-</p>
+
 
 
 
