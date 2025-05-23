@@ -35,6 +35,14 @@ Here is a simple flow chart:
 
 
 
+```mermaid
+graph TD;
+    Need Help-->Send me request;
+    Send me request-->OpenVK;
+    Send me request-->None or another social networks;
+    None or another social networks-->I can't give you  <br> help to fix your problem;
+    OpenVK-->I can help you;
+```
 
 
  
