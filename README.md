@@ -28,15 +28,17 @@
  If someone need help send me help request: | [![OpenVK](https://ovk.to/id25282)] | 
 Here is a simple flow chart:
 
+# Помощь и Контакты
+
+Если вам нужна помощь, пожалуйста, следуйте этим шагам:
+
 ```mermaid
 graph TD;
-    Need Help-->Send me request;
-    Send me request-->OpenVK;
-    Send me request-->None or another social networks;
-    None or another social networks-->I can't give you  <br> help to fix your problem;
-    OpenVK-->I can help you;
-```
-
+    Need Help --> Send me request;
+    Send me request --> OpenVK;
+    Send me request --> None or another social networks;
+    None or another social networks --> I can't give you <br> help to fix your problem;
+    OpenVK --> I can help you;
 
 
 
