@@ -25,22 +25,13 @@
 ##  For Another  ##
 | [![Discord DedSec Themes](https://github.com/RobertoGol/Dedsec_Discord_Theme)]  |
 ## Info ##
- If someone need help send me help request: | [![OpenVK](https://ovk.to/id25282)] | 
-Here is a simple flow chart:
 
-# Помощь и Контакты
 
 Если вам нужна помощь, пожалуйста, следуйте этим шагам:
-
-
-```mermaid
-graph TD;
-    Need_Help --> Send_me_request;
-    Send_me_request --> OpenVK;
-    Send_me_request --> None_or_another_social_networks;
-    None_or_another_social_networks --> I_cant_give_you_help_to_fix_your_problem;
-    OpenVK --> I_can_help_you;
-```
+<div style="display:flex; align-items:center;">
+  <img src="путь_к_вашей_картинке.png" alt="Описание" style="width:150px; margin-right:10px;">
+   If someone need help send me help request: | [![OpenVK](https://ovk.to/id25282)] | 
+</div>
 
  <!--
 **RobertoGol/RobertoGol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
