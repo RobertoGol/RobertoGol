@@ -35,7 +35,7 @@
 <br>
 If someone need help send me help request:
 <br>
-| [![OpenVK]( https://ovk.to/id25282 )]  |
+| [![OpenVK] ( https://ovk.to/id25282 )]  |
 
 
 
